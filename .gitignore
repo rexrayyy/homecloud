@@ -11,7 +11,7 @@ homecloud.exe~
 # Embedded Linux server payload: rebuild with build.ps1 before compiling the client.
 internal/client/payload/homecloud-linux-amd64
 internal/client/payload/homecloud-linux-arm64
-
+docs/
 # ---- Runtime data written by HomeCloud (never commit) ----
 # Windows client store: saved devices + DPAPI-encrypted passwords.
 # Real path: %LOCALAPPDATA%\HomeCloud\client.db (override: HOMECLOUD_CLIENT_DB)
