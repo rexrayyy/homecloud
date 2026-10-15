@@ -159,6 +159,4 @@ build.ps1                 cross-compile + embed + Windows build
 package-release.ps1       pack a release zip
 ```
 
-## License
 
-Released under the MIT License — see [LICENSE](LICENSE).
